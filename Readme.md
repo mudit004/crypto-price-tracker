@@ -79,7 +79,8 @@ crypto-tracker/
    ```
 
 ## Deployment
-
+1. crypto-price-tracker web app : `https://crypto-price-tracker-bay.vercel.app/`
+2. documentations: `https://crypto-price-tracker-ben9.vercel.app/`
 ### Deploying the App
 
 The app can be deployed to any static hosting service or containerized environment:
